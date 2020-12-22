@@ -44,7 +44,8 @@ body {
 .search {
   flex: 0 0 40%; }
   .search__input {
-    font-family: inherit; }
+    font-family: inherit;
+    font-size: inherit; }
   .search__icon {
     height: 2rem;
     width: 2rem; }
