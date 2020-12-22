@@ -30,7 +30,8 @@
     }
 
     &__button {
-
+        border: none;
+		background-color: var(--color-grey-light-2);
     }
 
     &__icon {

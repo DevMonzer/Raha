@@ -57,6 +57,9 @@ body {
       outline: none;
       width: 100%;
       background-color: var(--color-grey-light-3); }
+  .search__button {
+    border: none;
+    background-color: var(--color-grey-light-2); }
   .search__icon {
     height: 2rem;
     width: 2rem; }
