@@ -96,7 +96,8 @@ body {
     font-size: .8rem;
     height: 1.75rem;
     width: 1.75rem;
-    border-radius: 50%; }
+    border-radius: 50%;
+    background-color: var(--color-primary); }
   .user-nav__user-photo {
     height: 3.75rem;
     border-radius: 50%; }
