@@ -51,7 +51,12 @@ body {
     border: none;
     padding: .7rem 2rem;
     border-radius: 100px;
-    width: 90%; }
+    width: 90%;
+    transition: all .2s; }
+    .search__input:focus {
+      outline: none;
+      width: 100%;
+      background-color: var(--color-grey-light-3); }
   .search__icon {
     height: 2rem;
     width: 2rem; }
