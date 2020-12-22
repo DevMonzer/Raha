@@ -74,13 +74,14 @@ body {
     width: 2rem;
     fill: var(--color-grey-dark-3); }
 
-.user-nav__icon {
-  height: 2.5rem;
-  width: 2.5rem; }
-
-.user-nav__user-photo {
-  height: 3.75rem;
-  border-radius: 50%; }
+.user-nav {
+  display: flex; }
+  .user-nav__icon {
+    height: 2.5rem;
+    width: 2.5rem; }
+  .user-nav__user-photo {
+    height: 3.75rem;
+    border-radius: 50%; }
 
 .container {
   max-width: 120rem;
