@@ -11,6 +11,9 @@
 .search {
     flex: 0 0 40%;
 
+	display: flex;
+	
+
     &__input {
         font-family: inherit;
 		font-size: inherit;
