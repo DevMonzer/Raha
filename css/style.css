@@ -41,6 +41,14 @@ body {
   height: 3.25rem;
   margin-left: 3rem; }
 
+.search__icon {
+  height: 2rem;
+  width: 2rem; }
+
+.user-nav__icon {
+  height: 2.5rem;
+  width: 2.5rem; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
