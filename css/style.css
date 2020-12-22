@@ -75,7 +75,11 @@ body {
     fill: var(--color-grey-dark-3); }
 
 .user-nav {
-  display: flex; }
+  display: flex;
+  align-items: center; }
+  .user-nav > * {
+    padding: 0 2rem;
+    cursor: pointer; }
   .user-nav__icon {
     height: 2.5rem;
     width: 2.5rem; }
