@@ -105,6 +105,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; }
+  .user-nav__user {
+    height: 3.75rem; }
   .user-nav__user-photo {
     height: 3.75rem;
     border-radius: 50%; }
