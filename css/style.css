@@ -49,3 +49,6 @@ body {
   height: 7rem;
   background-color: #fff;
   border-bottom: var(--line); }
+
+.content {
+  display: flex; }
