@@ -46,4 +46,6 @@ body {
 
 .header {
   font-size: 1.4rem;
-  height: 7rem; }
+  height: 7rem;
+  background-color: #fff;
+  border-bottom: var(--line); }
