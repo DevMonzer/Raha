@@ -41,9 +41,13 @@ body {
   height: 3.25rem;
   margin-left: 3rem; }
 
-.search__icon {
-  height: 2rem;
-  width: 2rem; }
+.search {
+  flex: 0 0 40%; }
+  .search__input {
+    font-family: inherit; }
+  .search__icon {
+    height: 2rem;
+    width: 2rem; }
 
 .user-nav__icon {
   height: 2.5rem;
