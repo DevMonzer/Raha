@@ -101,7 +101,8 @@ body {
     color: #fff;
     position: absolute;
     top: 1.5rem;
-    right: 1.1rem; }
+    right: 1.1rem;
+    display: flex; }
   .user-nav__user-photo {
     height: 3.75rem;
     border-radius: 50%; }
