@@ -141,7 +141,9 @@ body {
 .sidebar {
   background-color: var(--color-grey-dark-1);
   flex: 0 0 18%;
-  display: flex; }
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
 
 .hotel-view {
   background-color: #fff;
