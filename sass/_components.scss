@@ -135,7 +135,8 @@
       background-color 0.1s;
   }
 
-  &__item:hover::before {
+  &__item:hover::before,
+  &__item--active::before {
     transform: scaleY(1);
     width: 100%;
   }
