@@ -119,11 +119,13 @@ body {
     text-decoration: none;
     text-transform: uppercase;
     display: block;
-    padding: 1.5rem 3rem; }
+    padding: 1.5rem 3rem;
+    display: flex; }
   .side-nav__icon {
     height: 1.75rem;
     width: 1.75rem;
-    margin-right: 2rem; }
+    margin-right: 2rem;
+    fill: currentColor; }
 
 .legal {
   font-size: 1.2rem;
