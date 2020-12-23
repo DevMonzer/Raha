@@ -131,6 +131,8 @@ body {
   .side-nav__item:hover::before, .side-nav__item--active::before {
     transform: scaleY(1);
     width: 100%; }
+  .side-nav__item:active::before {
+    background-color: var(--color-grey-light-1); }
   .side-nav__link:link, .side-nav__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;
@@ -138,6 +140,7 @@ body {
     display: block;
     padding: 1.5rem 3rem;
     position: relative;
+    z-index: 10;
     display: flex;
     align-items: center; }
   .side-nav__icon {
@@ -180,4 +183,5 @@ body {
 
 .hotel-view {
   background-color: #fff;
+  height: 80rem;
   flex: 1; }
