@@ -121,7 +121,8 @@
   &__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;
-   
+    text-transform: uppercase;
+  }
 
   &__icon {
     height: 1.75rem;
