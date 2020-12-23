@@ -125,7 +125,9 @@ body {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: var(--color-primary); }
+    background-color: var(--color-primary);
+    transform: scaleY(0);
+    transition: transform 0.2s; }
   .side-nav__link:link, .side-nav__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;

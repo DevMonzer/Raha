@@ -131,6 +131,7 @@
     width: 3px;
     background-color: var(--color-primary);
     transform: scaleY(0);
+    transition: transform 0.2s;
   }
 
   &__link:link,
