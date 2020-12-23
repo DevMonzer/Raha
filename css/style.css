@@ -114,6 +114,8 @@ body {
   font-size: 1.4rem;
   list-style: none;
   margin-top: 3.5rem; }
+  .side-nav__link:link, .side-nav__link:visited {
+    color: var(--color-grey-light-1); }
   .side-nav__icon {
     height: 1.75rem; }
 

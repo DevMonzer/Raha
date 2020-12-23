@@ -117,7 +117,9 @@
   &__item {
   }
 
-  &__link {
+  &__link:link,
+  &__link:visited {
+    color: var(--color-grey-light-1);
   }
 
   &__icon {
