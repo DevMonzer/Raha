@@ -120,6 +120,7 @@
 
   &__item::before {
     content: "";
+    position: absolute;
   }
 
   &__link:link,
