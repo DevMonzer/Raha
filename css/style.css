@@ -140,7 +140,8 @@ body {
 
 .sidebar {
   background-color: var(--color-grey-dark-1);
-  flex: 0 0 18%; }
+  flex: 0 0 18%;
+  display: flex; }
 
 .hotel-view {
   background-color: #fff;
