@@ -161,6 +161,9 @@ body {
     width: 100%;
     display: block; }
 
+.overview__icon-star, .overview__icon-location {
+  width: 1.75rem; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
