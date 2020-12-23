@@ -161,8 +161,12 @@ body {
     width: 100%;
     display: block; }
 
-.overview__icon-star, .overview__icon-location {
-  width: 1.75rem; }
+.overview {
+  display: flex; }
+  .overview__icon-star, .overview__icon-location {
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: var(--color-primary); }
 
 .container {
   max-width: 120rem;
