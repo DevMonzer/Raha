@@ -128,6 +128,8 @@ body {
     background-color: var(--color-primary);
     transform: scaleY(0);
     transition: transform 0.2s; }
+  .side-nav__item:hover::before {
+    transform: scaleY(1); }
   .side-nav__link:link, .side-nav__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;

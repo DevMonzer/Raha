@@ -134,6 +134,10 @@
     transition: transform 0.2s;
   }
 
+  &__item:hover::before {
+    transform: scaleY(1);
+  }
+
   &__link:link,
   &__link:visited {
     color: var(--color-grey-light-1);
