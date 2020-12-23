@@ -120,7 +120,8 @@
   &__link:link,
   &__link:visited {
     color: var(--color-grey-light-1);
-  }
+    text-decoration: none;
+   
 
   &__icon {
     height: 1.75rem;
