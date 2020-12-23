@@ -141,6 +141,10 @@
     width: 100%;
   }
 
+  &__item:active::before {
+    background-color: var(--color-grey-light-1);
+  }
+
   &__link:link,
   &__link:visited {
     color: var(--color-grey-light-1);
