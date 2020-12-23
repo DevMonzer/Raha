@@ -121,6 +121,7 @@
   &__item::before {
     content: "";
     position: absolute;
+    top: 0;
   }
 
   &__link:link,

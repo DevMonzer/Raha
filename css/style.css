@@ -119,11 +119,7 @@ body {
   .side-nav__item::before {
     content: "";
     position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 3px;
-    background-color: var(--color-primary); }
+    top: 0; }
   .side-nav__link:link, .side-nav__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;
