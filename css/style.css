@@ -155,6 +155,9 @@ body {
   text-align: center;
   padding: 2.5rem; }
 
+.gallery {
+  display: flex; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
