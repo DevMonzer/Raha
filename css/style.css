@@ -118,7 +118,8 @@ body {
     color: var(--color-grey-light-1);
     text-decoration: none;
     text-transform: uppercase;
-    display: block; }
+    display: block;
+    padding: 1.5rem 3rem; }
   .side-nav__icon {
     height: 1.75rem; }
 
