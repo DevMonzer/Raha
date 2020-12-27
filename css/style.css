@@ -165,6 +165,8 @@ body {
   display: flex;
   align-items: center;
   border-bottom: var(--line); }
+  .overview__heading {
+    font-size: 2.25rem; }
   .overview__stars {
     margin-right: auto; }
   .overview__icon-star, .overview__icon-location {
