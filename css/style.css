@@ -196,6 +196,9 @@ body {
     color: var(--color-grey-dark-1); }
     .btn-inline:hover span {
       margin-left: 8px; }
+  .btn-inline:focus {
+    outline: none;
+    animation: pulsate 1s infinite; }
 
 .container {
   max-width: 120rem;
