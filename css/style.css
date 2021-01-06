@@ -182,6 +182,8 @@ body {
     font-size: 1.2rem;
     display: flex;
     justify-content: center; }
+  .overview__icon-location {
+    margin-right: 0.5rem; }
 
 .btn-inline {
   border: none;
