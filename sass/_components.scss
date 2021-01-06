@@ -224,6 +224,9 @@
   }
 
   &__rating {
+    background-color: var(--color-primary);
+    color: #fff;
+    margin-left: 3rem;
   }
 
   // &__rating-average {
