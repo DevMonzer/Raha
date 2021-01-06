@@ -168,7 +168,8 @@ body {
   .overview__heading {
     font-size: 2.25rem;
     font-weight: 300;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    letter-spacing: 1px; }
   .overview__stars {
     margin-right: auto; }
   .overview__icon-star, .overview__icon-location {
