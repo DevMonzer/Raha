@@ -187,7 +187,9 @@ body {
   .overview__rating {
     background-color: var(--color-primary);
     color: #fff;
-    margin-left: 3rem; }
+    margin-left: 3rem;
+    padding: 0 2.25rem;
+    align-self: stretch; }
 
 .btn-inline {
   border: none;
