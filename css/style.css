@@ -184,6 +184,10 @@ body {
   color: var(--color-primary);
   font-size: inherit;
   border-bottom: 1px solid currentColor; }
+  .btn-inline:hover {
+    color: var(--color-grey-dark-1); }
+    .btn-inline:hover span {
+      margin-left: 8px; }
 
 .container {
   max-width: 120rem;
