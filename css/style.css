@@ -179,6 +179,12 @@ body {
     height: 1.75rem;
     fill: var(--color-primary); }
 
+.btn-inline {
+  border: none;
+  color: var(--color-primary);
+  font-size: inherit;
+  border-bottom: 1px solid currentColor; }
+
 .container {
   max-width: 120rem;
   margin: 8rem auto;
