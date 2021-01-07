@@ -272,6 +272,7 @@ body {
 
 .description {
   background-color: #fff;
+  box-shadow: var(--shadow-light);
   flex: 0 0 60%;
   margin-right: 4.5rem; }
 
