@@ -265,7 +265,9 @@ body {
   flex: 1; }
 
 .detail {
-  display: flex; }
+  display: flex;
+  padding: 4.5rem;
+  background-color: var(--color-grey-light-1); }
 
 .description {
   background-color: #fff;
