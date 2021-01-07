@@ -268,7 +268,9 @@ body {
   display: flex; }
 
 .description {
-  background-color: #fff; }
+  background-color: #fff;
+  flex: 0 0 60%;
+  margin-right: 4.5rem; }
 
 .user-reviews {
   flex: 1; }
