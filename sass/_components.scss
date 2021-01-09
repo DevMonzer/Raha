@@ -474,4 +474,12 @@
     left: 0;
     top: -100%;
   }
+
+  &:hover {
+    background-image: linear-gradient(
+      to left,
+      var(--color-primary-light),
+      var(--color-primary-dark)
+    );
+  }
 }
