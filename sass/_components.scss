@@ -486,4 +486,8 @@
   &:hover &__visible {
     transform: translateY(100%);
   }
+
+  &:hover &__invisible {
+    top: 0;
+  }
 }
