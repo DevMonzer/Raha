@@ -277,6 +277,12 @@ body {
     width: 4rem;
     border-radius: 50%;
     border: 3px solid #fff; }
+    .recommend__photo:not(:last-child) {
+      margin-right: -2rem; }
+
+.review {
+  background-color: #fff;
+  box-shadow: var(--shadow-light); }
 
 .container {
   max-width: 120rem;
