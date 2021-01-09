@@ -316,5 +316,6 @@
   }
   &__item::before {
     content: "";
+    display: inline-block;
   }
 }
