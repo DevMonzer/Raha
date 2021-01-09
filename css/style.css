@@ -291,6 +291,9 @@ body {
     margin-bottom: 2rem;
     z-index: 10;
     position: relative; }
+  .review__user {
+    display: flex;
+    align-items: center; }
 
 .container {
   max-width: 120rem;

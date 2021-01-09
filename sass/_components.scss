@@ -379,4 +379,9 @@
     z-index: 10;
     position: relative;
   }
+
+  &__user {
+    display: flex;
+    align-items: center;
+  }
 }
