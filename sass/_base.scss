@@ -37,7 +37,7 @@ $bp-smallest: 31.25em; // 500px
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%; // 1rem = 16px : 10/16 = 62.5%
+  font-size: 62.5%; // 1rem = 10px, 10px/16px = 62.5%
 
   @media only screen and (max-width: $bp-large) {
     font-size: 50%;
@@ -45,11 +45,10 @@ html {
 }
 
 body {
-  background-color: #eb2f64;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  color: var(--color-grey-dark-2);
   line-height: 1.6;
+  color: var(--color-grey-dark-2);
   background-image: linear-gradient(
     to right bottom,
     var(--color-primary-light),
