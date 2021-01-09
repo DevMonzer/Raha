@@ -402,4 +402,9 @@
     text-transform: uppercase;
     margin-bottom: 0.4rem;
   }
+
+  &__user-date {
+    font-size: 1rem;
+    color: var(--color-grey-dark-3);
+  }
 }

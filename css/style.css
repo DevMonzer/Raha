@@ -306,6 +306,9 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     margin-bottom: 0.4rem; }
+  .review__user-date {
+    font-size: 1rem;
+    color: var(--color-grey-dark-3); }
 
 .container {
   max-width: 120rem;
