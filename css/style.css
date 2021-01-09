@@ -263,7 +263,8 @@ body {
     background-image: none; }
 
 .recommend {
-  font-size: 1.3rem; }
+  font-size: 1.3rem;
+  color: var(--color-grey-dark-3); }
 
 .container {
   max-width: 120rem;
