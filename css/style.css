@@ -265,6 +265,8 @@ body {
 .recommend {
   font-size: 1.3rem;
   color: var(--color-grey-dark-3); }
+  .recommend__count {
+    margin-right: auto; }
 
 .container {
   max-width: 120rem;

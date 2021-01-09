@@ -339,4 +339,8 @@
 .recommend {
   font-size: 1.3rem;
   color: var(--color-grey-dark-3);
+
+  &__count {
+    margin-right: auto;
+  }
 }
