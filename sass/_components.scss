@@ -463,4 +463,8 @@
     width: 100%;
     transition: all 0.2s;
   }
+
+  &__visible {
+    padding: 2rem 7.5rem;
+  }
 }
