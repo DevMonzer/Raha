@@ -357,5 +357,9 @@
     width: 4rem;
     border-radius: 50%;
     border: 3px solid #fff;
+
+    &:not(:last-child) {
+      margin-right: -2rem;
+    }
   }
 }
