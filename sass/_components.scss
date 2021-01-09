@@ -482,4 +482,8 @@
       var(--color-primary-dark)
     );
   }
+
+  &:hover &__visible {
+    transform: translateY(100%);
+  }
 }
