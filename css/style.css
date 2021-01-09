@@ -360,6 +360,11 @@ body {
     background-image: linear-gradient(to left, var(--color-primary-light), var(--color-primary-dark)); }
   .btn:hover .btn__visible {
     transform: translateY(100%); }
+  .btn:hover .btn__invisible {
+    top: 0; }
+  .btn:focus {
+    outline: none;
+    animation: pulsate 1s infinite; }
 
 .container {
   max-width: 120rem;
@@ -405,4 +410,7 @@ body {
   margin-right: 4.5rem; }
 
 .user-reviews {
-  flex: 1; }
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
