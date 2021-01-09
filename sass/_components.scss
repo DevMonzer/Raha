@@ -407,4 +407,10 @@
     font-size: 1rem;
     color: var(--color-grey-dark-3);
   }
+
+  &__rating {
+    color: var(--color-primary);
+    font-size: 2.2rem;
+    font-weight: 300;
+  }
 }
