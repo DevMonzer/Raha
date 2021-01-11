@@ -236,8 +236,18 @@
     display: block;
   }
 
+  figure:nth-of-type(1) {
+    border-top: 1px solid var(--color-primary);
+    border-bottom: 1px solid var(--color-primary);
+  }
+
   figure:nth-of-type(2) {
     border: 1px solid var(--color-primary);
+  }
+
+  figure:nth-of-type(3) {
+    border-top: 1px solid var(--color-primary);
+    border-bottom: 1px solid var(--color-primary);
   }
 }
 
