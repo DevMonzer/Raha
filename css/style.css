@@ -153,7 +153,7 @@ body {
     transform: scaleY(1);
     width: 100%; }
   .side-nav__item:active::before {
-    background-color: var(--color-primary-light); }
+    background-color: #d69d51; }
   .side-nav__link:link, .side-nav__link:visited {
     color: var(--color-grey-light-1);
     text-decoration: none;

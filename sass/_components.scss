@@ -169,7 +169,7 @@
   }
 
   &__item:active::before {
-    background-color: var(--color-primary-light);
+    background-color: lighten(#d1913c, 5%);
   }
 
   &__link:link,
