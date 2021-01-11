@@ -403,7 +403,7 @@ body {
   text-transform: uppercase;
   border-radius: 100px;
   border: none;
-  background-image: linear-gradient(to right, var(--color-primary-light), var(--color-primary-dark));
+  background-image: linear-gradient(to right, var(--color-primary-dark), var(--color-primary-light));
   color: #fff;
   position: relative;
   overflow: hidden;
