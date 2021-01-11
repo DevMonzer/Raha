@@ -421,7 +421,7 @@ body {
     left: 0;
     top: -100%; }
   .btn:hover {
-    background-image: linear-gradient(to left, var(--color-primary-light), var(--color-primary-dark)); }
+    background-image: linear-gradient(to left, var(--color-primary-dark), var(--color-primary-light)); }
   .btn:hover .btn__visible {
     transform: translateY(100%); }
   .btn:hover .btn__invisible {
