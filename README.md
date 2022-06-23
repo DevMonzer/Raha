@@ -12,4 +12,5 @@ Watch -> https://devmonzer.github.io/Raha/
 * HTML5
 * CSS3
 * SASS
+* Advanced CSS3 Flexbox
 
