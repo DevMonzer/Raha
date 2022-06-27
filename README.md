@@ -13,5 +13,3 @@ Watch -> https://devmonzer.github.io/Raha/
 * CSS3
 * SASS
 * Advanced CSS3 Flexbox
-
-<a href="https://ibb.co/bdqrHrH"><img src="https://i.ibb.co/XJNzyzy/Capture.jpg" alt="Capture" border="0"></a>
