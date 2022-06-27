@@ -3,7 +3,7 @@ Raha app your all in one booking app
 
 Watch -> https://devmonzer.github.io/Raha/ 
 
-<img src="https://i.ibb.co/2FS4XPf/raha.jpg" alt="raha">
+<a href="https://ibb.co/gd7Ck53"><img src="https://i.ibb.co/KDGHTMX/Capture.jpg" alt="Capture" border="0"></a>
   
 ## What to do  
 1. Clone this repo 
