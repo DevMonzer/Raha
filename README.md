@@ -12,6 +12,6 @@ Watch -> https://devmonzer.github.io/Raha/
 ## Technologies ⚙️
 
 * HTML5
-* CSS3
+* CSS3 
 * SASS
 * Advanced CSS3 Flexbox
