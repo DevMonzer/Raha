@@ -13,7 +13,7 @@ Clone the repo
 ### Run
 
 ```bash
-It's better to use a live server
+npm start
 ```
 
 ```bash
